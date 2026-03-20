@@ -36,8 +36,8 @@ export default function BookshelfFeature() {
         <div className="max-w-7xl mx-auto px-6 py-4">
           <div className="flex flex-col md:flex-row items-center justify-between gap-6 md:gap-4">
             <h1 className="text-2xl font-bold flex items-center gap-2 self-center md:self-auto">
-              {/* <Library className="text-teal-500" size={28} /> */}
-              <img src="/src/assets/image.png" className="w-10 h-10" />
+              <Library className="text-teal-500" size={28} />
+              {/* <img src="/src/assets/image.png" className="w-10 h-10" /> */}
               <span className="text-white">Book</span>
               <span className="text-teal-500">/shelf</span>
             </h1>
