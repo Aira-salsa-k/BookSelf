@@ -1,0 +1,35 @@
+
+ section {
+  scroll-margin-top: 80px; /* sesuai tinggi navbar kamu */
+}
+
+ .swal2-popup {
+  background: #292929 !important;
+  color: #e0e0e0 !important;
+  font-family: 'Inter', sans-serif;
+  border: 1px solid #00bfa6 !important;
+  transition: all 0.4s ease-in-out !important;
+}
+
+.swal2-title {
+  color: #f1fffd !important;
+}
+
+.swal2-icon.swal2-success {
+  border-color: #d8f1ed !important;
+  color: #00bfa6 !important;
+}
+
+.swal2-icon.swal2-success [class^=swal2-success-line] {
+  background-color: #00bfa6 !important;
+}
+
+.swal2-confirm {
+  background-color: #00bfa6 !important;
+  color: white !important;
+  box-shadow: none !important;
+}
+
+.swal2-confirm:hover {
+  background-color: #009f8a !important;
+}
